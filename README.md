@@ -1,6 +1,6 @@
 # TP. Heroes
 
-##### _Primer ejercicio del módulo de ExpressJS. Este consiste en la primera página con Express y HTML estático que hicimos en el curso._
+##### _Primer ejercicio del módulo de **Anatomía de un Sitio Web**. Este consiste en la primera página con Express y HTML estático que hicimos en el curso._
 
 ### Objetivo 
 
